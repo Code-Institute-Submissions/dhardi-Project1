@@ -1,0 +1,126 @@
+/*font import*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*generic pj style*/
+    color: #3a3a3a;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+/*Pillars of jiu jitsu*/
+
+#bjj-pillars {
+    display: flex;
+
+
+}
+
+#pillars-content {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#pillars-content img {
+    width: 20%;
+}
+
+/*hero image*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/073FFEF7-88B6-4497-B6DD-018B5CA95593.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+header {
+    background-color: yellow;
+    font-family: 'Josefin Sans', sans-serif;
+
+    background-color: #ffffff;
+    padding: 1 0rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-direction: row-reverse;
+
+}
+
+
+
+/*Menu toggle*/
+nav {
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 2px 2px #3a3a3a;
+    width: 100%;
+    padding-top: 0 1rem;
+    display: none;
+    top: 100%;
+
+
+}
+
+#menu {}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+#menu>li {
+    margin-bottom: 1em
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
+
+}
+
+ul {
+    list-style: none;
+}
+
+
+
+
+main {
+    /* Enlarge main element to push footer down*/
+    flex: 1 0 auto;
+    /* Add margin at the top to prevent content from being covered by the header */
+    margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+footer {
+    background-color: lightgray;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+
+
+
+}
