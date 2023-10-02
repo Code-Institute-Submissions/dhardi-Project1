@@ -17,10 +17,17 @@ body {
 
 }
 
+a:link {
+    text-decoration: none;
+}
+
 /*h1 style all pages */
 h1 {
     text-transform: uppercase;
+
 }
+
+
 
 /*Pillars of jiu jitsu*/
 
@@ -80,11 +87,15 @@ nav {
 
 }
 
-#menu {}
+
+
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+
 }
+
+
 
 #menu>li {
     margin-bottom: 1em
@@ -142,6 +153,32 @@ ul {
     width: 90%;
 }
 
+#tips {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#tips-content {
+
+    justify-content: center;
+    text-align: center;
+
+}
+
+#nails img {
+    width: 10%;
+
+}
+
+#mouth-guard img {
+    width: 10%;
+}
+
+#clean-kimono img {
+    width: 10%;
+}
+
 main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
@@ -158,6 +195,53 @@ footer {
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
 
+
+
+}
+
+
+/*media query:larger or landscape { 576px and up}*/
+@media screen and (min-width: 576px) {
+
+    /* techniques page*/
+    #positions {
+        column-count: 2;
+        column-gap: 0;
+        width: 50%;
+    }
+
+
+    /* tips page*/
+
+
+
+    #tips-content {
+        display: flex;
+        flex-direction: row;
+        flex-basis: auto;
+        width: 100%;
+    }
+
+    #clean-kimono img {
+        width: 50%;
+    }
+
+    #mouth-guard img {
+        width: 50%;
+    }
+
+    #nails img {
+        width: 50%;
+
+    }
+
+    #pillars-content {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-basis: auto;
+
+    }
 
 
 }
