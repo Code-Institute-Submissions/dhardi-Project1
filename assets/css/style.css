@@ -24,6 +24,7 @@ a:link {
 /*h1 style all pages */
 h1 {
     text-transform: uppercase;
+    color: #D22B2B;
 
 }
 
@@ -56,7 +57,7 @@ h1 {
 }
 
 header {
-    background-color: lightgray;
+    background-color: black;
     font-family: 'Josefin Sans', sans-serif;
 
 
@@ -72,17 +73,33 @@ header {
 
 }
 
+#videomain {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 5rem;
 
+}
+
+#videoindex {
+    width: 320px;
+    height: 240px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+}
 
 /*Menu toggle*/
 nav {
     position: absolute;
-    background-color: lightgrey;
+    background-color: black;
     box-shadow: 0 2px 2px #3a3a3a;
     width: 100%;
     padding-top: 0 1rem;
     display: none;
     top: 100%;
+
 
 
 }
@@ -92,7 +109,7 @@ nav {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
-
+    color: white;
 }
 
 
@@ -191,9 +208,10 @@ main {
 }
 
 footer {
-    background-color: lightgray;
+    background-color: black;
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
+    color: white;
 
 
 
