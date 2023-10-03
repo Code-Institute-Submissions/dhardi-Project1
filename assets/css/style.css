@@ -24,7 +24,7 @@ a:link {
 /*h1 style all pages */
 h1 {
     text-transform: uppercase;
-    color: #D22B2B;
+    color: #F4FDFF;
 
 }
 
@@ -34,6 +34,7 @@ h1 {
 
 #bjj-pillars {
     display: flex;
+
 
 
 }
@@ -57,7 +58,7 @@ h1 {
 }
 
 header {
-    background-color: black;
+    background-color: #333;
     font-family: 'Josefin Sans', sans-serif;
 
 
@@ -73,27 +74,24 @@ header {
 
 }
 
-#videomain {
+#upperfooter {
     display: flex;
-    align-items: center;
-    padding: 1rem;
-    margin-bottom: 1rem;
-    margin-top: 5rem;
-
+    justify-content: center;
+    column-gap: 10px, 10px;
 }
+
+#videomain {}
 
 #videoindex {
     width: 320px;
-    height: 240px;
-    border-radius: 20px;
-    overflow: hidden;
-    position: relative;
+    height: 320px;
+    align-items: stretch;
 }
 
 /*Menu toggle*/
 nav {
     position: absolute;
-    background-color: black;
+    background-color: #333;
     box-shadow: 0 2px 2px #3a3a3a;
     width: 100%;
     padding-top: 0 1rem;
@@ -108,11 +106,15 @@ nav {
 
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
-    color: white;
+
+    color: #F4FDFF;
+
 }
 
 
+#menu>li a {
+    text-transform: uppercase;
+}
 
 #menu>li {
     margin-bottom: 1em
@@ -208,7 +210,7 @@ main {
 }
 
 footer {
-    background-color: black;
+    background-color: #333;
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
     color: white;
@@ -263,3 +265,53 @@ footer {
 
 
 }
+
+/*media query:tablets and larger {768px and up}*/
+@media screen and (min-width: 768px) {
+
+    /*header*/
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+
+        align-content: flex-start;
+    }
+
+    #menu {
+        display: flex;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+        float: left;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    li a:hover {
+        background-color: #111;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
