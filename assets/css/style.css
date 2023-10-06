@@ -17,6 +17,14 @@ body {
 
 }
 
+hr {
+    margin-bottom: 15px;
+    border-top: 1px solid #8c8b8b;
+    margin-left: 50 px;
+    margin-right: 20px;
+}
+
+
 #imgmagic {
 
     display: none;
@@ -53,6 +61,8 @@ h1 {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 #pillars-content img {
@@ -89,8 +99,11 @@ header {
     display: flex;
 
     flex-direction: column;
-    column-gap: 1px, 1px;
+    justify-content: center;
+
     background-color: #0e1111;
+    margin-top: 15px;
+    padding: 20px;
 
 }
 
@@ -400,18 +413,32 @@ footer {
         display: none;
     }
 
-
+    #hero {
+        height: 1000px;
+        width: 100%;
+        margin-bottom: 20px;
+    }
 
     #upperfooter img {
 
-        width: 30%;
+        width: 50%;
 
 
     }
+
 
     #upperfooter {
-        align-items: center;
+        display: flex;
 
+        flex-direction: row;
+        justify-content: space-around;
+
+        background-color: #0e1111;
+        margin-top: 15px;
+        padding: 20px;
 
     }
+
+
+}
 }
