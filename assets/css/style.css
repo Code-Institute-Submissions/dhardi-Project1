@@ -240,7 +240,7 @@ main {
 
 footer {
     background-color: #333;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: Arial;
     text-align: center;
     color: white;
     text-transform: uppercase;
@@ -369,6 +369,10 @@ footer {
         flex-basis: auto;
 
 
+    }
+
+    #titlepage {
+        visibility: hidden;
     }
 
     #upperfooter img {
