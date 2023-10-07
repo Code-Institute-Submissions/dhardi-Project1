@@ -594,7 +594,7 @@ li a {
 
     }
 
-    h2 {
+    .pageh2 {
         margin-top: 150px;
         text-transform: capitalize;
     }
