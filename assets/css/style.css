@@ -439,5 +439,23 @@ footer {
 
     }
 
+    /*footer social media*/
+    footer {
+        display: flex;
+        flex-direction: row;
+
+    }
+
+    .social-icons {
+        display: flex;
+        flex-direction: row;
+    }
+
+
+    .textfooter {
+        flex-grow: 2;
+    }
+
+
 
 }
