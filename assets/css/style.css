@@ -18,12 +18,19 @@ body {
 }
 
 hr {
+    margin-top: 15px;
     margin-bottom: 15px;
     border-top: 1px solid #8c8b8b;
-    margin-left: 50 px;
-    margin-right: 20px;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
+.mainp {
+    text-align: left;
+    margin-left: 25px;
+    margin-right: 25px;
+}
 
 #imgmagic {
 
