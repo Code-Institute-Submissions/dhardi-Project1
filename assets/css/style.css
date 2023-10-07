@@ -26,6 +26,10 @@ hr {
     margin-right: 50px;
 }
 
+h2 {
+    text-transform: capitalize;
+}
+
 .mainp {
     text-align: left;
     margin-left: 25px;
@@ -89,6 +93,11 @@ h1 {
 .jsbjj {
     margin-top: 20px;
     margin-bottom: 20px;
+
+}
+
+.address {
+    text-transform: capitalize;
 }
 
 .tbjj {
@@ -116,6 +125,8 @@ h1 {
     margin-bottom: 10px;
     border-radius: 32px;
 }
+
+
 
 
 /*hero image*/
@@ -538,6 +549,7 @@ li a {
     #gyms {
         display: flex;
         flex-direction: row;
+        justify-content: space-between;
 
 
 
@@ -561,17 +573,17 @@ li a {
     }
 
     .jsbjj>img {
-        width: 20%;
+        width: 250px;
 
     }
 
     .tbjj>img {
-        width: 20%;
+        width: 250px;
 
     }
 
     .infight>img {
-        width: 20%;
+        width: 300px;
         border-radius: 32px;
 
     }
@@ -584,6 +596,7 @@ li a {
 
     h2 {
         margin-top: 150px;
+        text-transform: capitalize;
     }
 
 
