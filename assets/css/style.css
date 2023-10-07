@@ -78,6 +78,46 @@ h1 {
     width: 20%;
 }
 
+/*page gym content mobile*/
+#gyms {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.jsbjj {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tbjj {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.infight {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.jsbjj>img {
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.tbjj>img {
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.infight>img {
+    width: 65%;
+    margin-bottom: 10px;
+    border-radius: 32px;
+}
+
+
 /*hero image*/
 #hero {
     height: 600px;
@@ -493,6 +533,61 @@ li a {
     .textfooter {
         flex-grow: 2;
     }
+
+    /*gyms content page*/
+    #gyms {
+        display: flex;
+        flex-direction: row;
+
+
+
+
+
+    }
+
+    .jsbjj {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .tbjj {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .infight {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .jsbjj>img {
+        width: 20%;
+
+    }
+
+    .tbjj>img {
+        width: 20%;
+
+    }
+
+    .infight>img {
+        width: 20%;
+        border-radius: 32px;
+
+    }
+
+    .address {
+        margin-left: 40px;
+        margin-top: 25px;
+
+    }
+
+    h2 {
+        margin-top: 150px;
+    }
+
+
+
 
 
 
