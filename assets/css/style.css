@@ -150,6 +150,34 @@ h1 {
 
 }
 
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.checkbox-button {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.roll-button {
+    margin-top: 20px;
+
+    padding: 15px 32px;
+    cursor: pointer;
+    border: 2px solid #0f172a;
+    box-shadow: 2px 2px 0 0 white;
+    transition-duration: 200ms;
+}
+
+
 
 /*hero image*/
 #hero {
