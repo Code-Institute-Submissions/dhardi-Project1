@@ -126,7 +126,29 @@ h1 {
     border-radius: 32px;
 }
 
+/*style form*/
+/*meetup content form*/
+#signup {
+    background: url("../images/WhatsApp\ Image\ 2023-10-08\ at\ 10.17.22.jpeg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
 
+/*form style*/
+
+#signup-form>h2 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 10px;
+
+}
 
 
 /*hero image*/

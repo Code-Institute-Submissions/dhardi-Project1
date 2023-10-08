@@ -58,7 +58,61 @@
       <!--end of menu-->
     </header>
     <main>
-   
+      <section id="signup">
+        <form action="" id="signup-form">
+          <h2>Let's Roll<i class="fa-regular fa-comment-dots"></i></h2>
+          <label for="first_name">First Name</label>
+          <input
+            type="text"
+            name="first_name"
+            id="first_name"
+            class="text-input"
+            required
+          />
+          <br />
+          <label for="last_name">Last Name</label>
+          <input
+            type="text"
+            name="last_name"
+            id="last_name"
+            class="text-input"
+            required
+          />
+          <br />
+          <label for="email_address">Email Address</label>
+          <input
+            type="email"
+            name="email_address"
+            id="email_address"
+            class="text-input"
+            required
+          />
+          <br />
+          <label for="phone"><i class="fa-brands fa-whatsapp"></i></label>
+          <input
+            type="tel"
+            id="phone"
+            name="phone"
+            placeholder="123-45-678"
+            required
+          />
+          <br />
+          <label for="date">Date Birth</label>
+          <input type="date" id="dbirth" name="date-birth" />
+          <br />
+          <p>choose training type:</p>
+          <br />
+          <div class="checkbox-button">
+            <input type="checkbox" id="type1" name="type1" value="Sparring" />
+            <label for="type1"> Sparring</label>
+            <input type="checkbox" id="type2" name="type2" value="Drills" />
+            <label for="type2"> Drills</label>
+            <input type="checkbox" id="type3" name="type3" value="Technique" />
+            <label for="type2"> Technique</label>
+          </div>
+          <button type="submit" class="roll-button">Let's Roll</button>
+        </form>
+      </section>
     </main>
 
     <footer>
