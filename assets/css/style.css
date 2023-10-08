@@ -126,7 +126,28 @@ h1 {
     border-radius: 32px;
 }
 
-/*style form*/
+/*meetup time table*/
+#timetable {
+    display: flex;
+    color: white;
+    background-color: #0e1111;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.bordertable {
+    box-shadow: 0 0 10px white;
+    border-radius: 15px 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 150%;
+
+}
+
+
+
+
 /*meetup content form*/
 #signup {
     background: url("../images/WhatsApp\ Image\ 2023-10-08\ at\ 10.17.22.jpeg");
