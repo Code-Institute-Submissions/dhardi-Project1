@@ -693,6 +693,23 @@ li a {
         text-transform: capitalize;
     }
 
+    /*time table meet up big screens*/
+    #timetable {
+        margin-top: 50px;
+    }
+
+    #timetable>h2 {
+        text-align: center;
+
+
+    }
+
+    #time {
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
 
 
 
