@@ -641,51 +641,11 @@ li a {
     /*gyms content page*/
     #gyms {
         display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-
-
-
-
-
     }
 
-    .jsbjj {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .tbjj {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .infight {
-        display: flex;
-        flex-direction: row;
-    }
-
-    .jsbjj>img {
-        width: 250px;
-
-    }
-
-    .tbjj>img {
-        width: 250px;
-
-    }
-
-    .infight>img {
+    .infight img {
         width: 404.47px;
         height: 128.83px;
-        border-radius: 32px;
-
-    }
-
-    .address {
-        margin-left: 40px;
-        margin-top: 25px;
-
     }
 
     .pageh2 {
@@ -694,21 +654,29 @@ li a {
     }
 
     /*time table meet up big screens*/
-    #timetable {
-        margin-top: 50px;
-    }
 
     #timetable>h2 {
         text-align: center;
+        color: white;
+        background-color: #333;
 
 
     }
 
     #time {
-        margin-top: 50px;
+
         display: flex;
+        flex-wrap: wrap;
         flex-direction: row;
-        justify-content: space-between;
+
+    }
+
+    #time div {
+        padding: 15px;
+        text-align: center;
+        /*this will not wrap on big screens will expand to fill the avaiable space on its row*/
+        flex-basis: 300px;
+        flex-grow: 1;
     }
 
 
