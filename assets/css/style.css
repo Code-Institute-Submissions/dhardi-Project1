@@ -315,40 +315,7 @@ ul {
     list-style: none;
 }
 
-/*Tecnhiques */
 
-#techniques {
-    display: flex;
-    flex-direction: column;
-
-}
-
-#positions {
-
-    justify-content: center;
-    text-align: center;
-
-}
-
-#sidecontrol img {
-    width: 90%;
-}
-
-#highguard img {
-    width: 90%;
-}
-
-#back-control img {
-    width: 90%;
-}
-
-#full-mount img {
-    width: 90%;
-}
-
-#half-guard img {
-    width: 90%;
-}
 /*tips mobile*/
 #tips {
     display: flex;
@@ -423,7 +390,7 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #e8e9f6 ;
+    background-color: #e0dcd9 ;
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;   
     width: 90%;
     margin-top: 15px;
@@ -589,7 +556,7 @@ li a {
         display: flex;
         flex-direction: column;
         align-items: center;
-        background-color: #e8e9f6 ;
+        background-color: #e0dcd9;
         box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
         margin-top: 20px;
         margin-left: 20px;
