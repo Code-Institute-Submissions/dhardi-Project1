@@ -358,6 +358,26 @@ ul {
 
 }
 
+/* tips page*/
+#trial>a{
+    display: flex;
+    
+    justify-content: center;
+    margin-bottom: 20px;
+   
+   }
+   #trial a .btn {
+    border: 2px solid white;
+    background-color: #333;
+    color:white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 32px;
+    
+   
+  }
+
 #tips-content {
     display: flex;
     flex-direction: column;
@@ -488,21 +508,32 @@ li a {
 /*media query:larger or landscape { 576px and up}*/
 @media screen and (min-width: 576px) {
 
-    /* techniques page*/
-    #positions {
-        column-count: 2;
-        column-gap: 0;
-        width: 50%;
-    }
+    
 
-
-    /* tips page*/
+    
+    
     #introtips{
         margin-top: 160px;
         margin-left: 25px;
         margin-right: 25px;
     }
 
+    #introtips h2{
+        margin-bottom: 20px;
+
+    }
+
+    #tips-content div h2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+       
+    }
+
+    #tips-content div p{
+        margin-left: 20px;
+        margin-right: 20px;
+       
+    }
 
 
     #tips-content {
@@ -775,24 +806,7 @@ li a {
     }
 
    /*tips content*/
-   #trial>a{
-    display: flex;
- 
-    justify-content: center;
-    margin-bottom: 20px;
-   
-   }
-   #trial a .btn {
-    border: 2px solid white;
-    background-color: #333;
-    color:white;
-    padding: 14px 28px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 32px;
-    
-   
-  }
+  
 
   #trial a .btn:hover{
     background-color: #0e1111;
