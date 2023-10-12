@@ -359,6 +359,28 @@ ul {
 }
 
 /* tips page*/
+#introtips{
+   margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#introtips h2{
+    margin-bottom: 20px;
+
+}
+
+#tips-content div h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+#tips-content div p{
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
 #trial>a{
     display: flex;
     
@@ -637,6 +659,25 @@ li a {
 
 
 
+    }
+
+    /*tips tablets*/
+    #introtips p{
+        font-size: 125%;
+
+    }
+    #nails{
+        width: 75%;
+    }
+    #mouth-guard{
+        width: 75%;
+    }
+
+    #clean-kimono{
+        width: 75%;
+    }
+    #tips-content div p{
+        font-size: 125%;
     }
 
     /*meetup big screens*/
