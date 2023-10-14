@@ -752,6 +752,8 @@ li a {
     #upperfooter img {
 
         width: 50%;
+        padding-right: 15px;
+        margin-right: 15px;
 
 
     }
