@@ -150,7 +150,7 @@ h1 {
 
 /*meetup content form*/
 #signup {
-    background: url("../images/WhatsApp\ Image\ 2023-10-08\ at\ 10.17.22.jpeg");
+    background: url("../images/formmobile.jpg");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -665,6 +665,7 @@ li a {
 
 
     #signup {
+        background-image:url("../images/formhero.jpeg") ;
         background-position-y: -376px;
         position: relative;
         background-size: cover;
