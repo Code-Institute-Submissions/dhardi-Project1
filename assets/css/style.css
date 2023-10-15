@@ -200,6 +200,17 @@ h1 {
     transition-duration: 200ms;
 }
 
+#baseform{
+    display: flex;
+    flex-direction: row;
+}
+
+#baseform p {
+    width: 40%;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
 
 
 /*hero image*/
