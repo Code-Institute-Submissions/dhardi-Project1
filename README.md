@@ -7,3 +7,8 @@
 
   ## Features
   Jiu Jitsu Vibes website is for who wants find a partner to tranning and find good Gyms to do so, you will find location of 3 great Gyms in Brazil and Ireland also you will find a timetable with schedule in order to arrange the day to tranning.
+
+  ### Existing Features
+  
+  - Featured on all four pages , the full responsive bar included links and logo, home page, Meet Up, Gyms e Tips.
+  ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
