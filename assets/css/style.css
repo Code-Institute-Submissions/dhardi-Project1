@@ -672,7 +672,7 @@ li a:hover {
 
     #pillars-content {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
         flex-basis: auto;
 
@@ -717,8 +717,8 @@ li a:hover {
 
 }
 
-/*media query:tablets and larger {768px and up}*/
-@media screen and (min-width: 768px) {
+/*media query:tablets and larger {889px and up}*/
+@media screen and (min-width: 889px) {
 
 
     /*topmenu*/
