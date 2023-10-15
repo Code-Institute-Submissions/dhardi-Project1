@@ -245,8 +245,8 @@ header {
 }
 
 #upperfooter img {
-    width: 335px;
-    height: 106.7px;
+    /*width: 335px;
+    height: 106.7px;*/
     margin-top: 10px;
     margin-bottom: 10px;
 
@@ -254,6 +254,8 @@ header {
 }
 
 .borderimg {
+    width: 335px;
+    height: 106.7px;
     border-radius: 32px;
 }
 
@@ -502,7 +504,73 @@ li a {
 @media screen and (min-width: 576px) {
 
     
+/*header menu tablets*/
 
+    header {
+        flex-direction: column;
+        align-items: center;
+
+}
+    header h1{
+        display: none;
+    }
+
+    #imgmagic {
+
+
+        display: block;
+        height: 116px;
+        width: 116px;
+
+
+
+
+}
+ /*menu*/
+ nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+
+    align-content: flex-start;
+}
+
+#menu {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    height: 40px;
+
+}
+
+
+
+#menu>li {
+    padding-left: 1rem;
+    float: left;
+}
+
+li a {
+    display: block;
+
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.nav-toggle-label {
+    display: none;
+}
     
     
     #introtips{
@@ -611,8 +679,41 @@ li a {
 
     }
 
+/*responsive tablets page timetable meetup*/
+.pageh2{
+    margin-top: 150px;
+}
+#signup{
+        background-image:url("../images/formhero.jpeg") ;
+        background-position-y: -43px;
+        position: relative;
+        background-size: cover;
+        height: 100%;
+}
+
+#timetable>h2 {
+    text-align: center;
+    color: white;
+    background-color: #333;
 
 
+}
+
+#time {
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+#time div {
+    padding: 15px;
+    text-align: center;
+    /*this will not wrap on big screens will expand to fill the avaiable space on its row*/
+    flex-basis: 300px;
+    flex-grow: 1;
+}
 
 }
 
@@ -733,6 +834,9 @@ li a {
     .nav-toggle-label {
         display: none;
     }
+    /*end menu big screens*/
+
+
 
     #pillars-content {
         display: flex;
@@ -767,91 +871,96 @@ li a {
 
     #upperfooter img {
 
-        width: 50%;
+        width: 404px;
+        height: 129px;
         padding-right: 15px;
         margin-right: 15px;
-
-
-    }
-
-
-    #upperfooter {
-        display: flex;
-
-        flex-direction: row;
-        justify-content: space-around;
-
+        
+           
+        
+        
+        }
+        #upperfooter {
+            display: flex;
+    
+            flex-direction: row;
+            justify-content: space-around;
+    
+            background-color: #0e1111;
+            margin-top: 15px;
+            padding: 20px;
+    
+        }
+    
+        /*footer social media*/
+        footer {
+            display: flex;
+            flex-direction: row;
+    
+        }
+    
+        .social-icons {
+            display: flex;
+            flex-direction: row;
+        }
+    
+    
+        .textfooter {
+            flex-grow: 2;
+        }
+    
+        /*gyms content page*/
+        #gyms {
+            display: flex;
+        }
+    
+        .infight img {
+            width: 404.47px;
+            height: 128.83px;
+        }
+    
+        .pageh2 {
+            margin-top: 150px;
+            text-transform: capitalize;
+        }
+    
+        /*time table meet up big screens*/
+    
+        #timetable>h2 {
+            text-align: center;
+            color: white;
+            background-color: #333;
+    
+    
+        }
+    
+        #time {
+    
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+    
+        }
+    
+        #time div {
+            padding: 15px;
+            text-align: center;
+            /*this will not wrap on big screens will expand to fill the avaiable space on its row*/
+            flex-basis: 300px;
+            flex-grow: 1;
+        }
+    
+       /*tips content*/
+      
+    
+      #trial a .btn:hover{
         background-color: #0e1111;
-        margin-top: 15px;
-        padding: 20px;
+      }
+    
+    
 
     }
 
-    /*footer social media*/
-    footer {
-        display: flex;
-        flex-direction: row;
 
-    }
+    
 
-    .social-icons {
-        display: flex;
-        flex-direction: row;
-    }
-
-
-    .textfooter {
-        flex-grow: 2;
-    }
-
-    /*gyms content page*/
-    #gyms {
-        display: flex;
-    }
-
-    .infight img {
-        width: 404.47px;
-        height: 128.83px;
-    }
-
-    .pageh2 {
-        margin-top: 150px;
-        text-transform: capitalize;
-    }
-
-    /*time table meet up big screens*/
-
-    #timetable>h2 {
-        text-align: center;
-        color: white;
-        background-color: #333;
-
-
-    }
-
-    #time {
-
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-
-    }
-
-    #time div {
-        padding: 15px;
-        text-align: center;
-        /*this will not wrap on big screens will expand to fill the avaiable space on its row*/
-        flex-basis: 300px;
-        flex-grow: 1;
-    }
-
-   /*tips content*/
-  
-
-  #trial a .btn:hover{
-    background-color: #0e1111;
-  }
-
-
-
-}
