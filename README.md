@@ -14,5 +14,12 @@
 
 - The Landing Page 
    - the landing page includes a logo , logo was created on [https://looka.com/onboarding] (Looka logo Maker) 
-  !
+ 
+  ![logo](https://github.com/dhardi/Project1/blob/main/assets/images/logo.PNG)
+
+- Nav Bar
+  - Menu iterative it changes color while you hover with your mouse over.
+
+![menu]()
+
 
