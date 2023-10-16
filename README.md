@@ -34,4 +34,12 @@
 ### Upper Footer 
 
  - Upper Footer was created to user explorer external links also includes a sneakpeak video about the Gym Takedown.
-  
+
+![Upperfooter](https://github.com/dhardi/Project1/blob/main/assets/images/upperfooter.PNG)
+
+
+### Footer
+
+- Footer includes Follow us with all liks to the  relevant social media sites for Jiu Jitsu Vibes.The links will open to a new tab to allow easy navigation for the user.
+
+![Footer]()
