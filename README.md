@@ -11,3 +11,8 @@
 - Featured on all four pages , the full responsive bar included links and logo, home page, Meet Up, Gyms e Tips.
 
   ![Nav Bar](https://github.com/dhardi/Project1/blob/main/assets/images/navbar.PNG)
+
+- The Landing Page 
+   - the landing page includes a logo , logo was created on [https://looka.com/onboarding] (Looka logo Maker) 
+  !
+
