@@ -53,9 +53,16 @@
 
 - This page allows the user signed up to Jiu jitsu Vibes to start training Jiu jitsu you can choose casual tranning or specific tranning.
 
-![Meetup]()
+![Meetup](https://github.com/dhardi/Project1/blob/main/assets/images/meetupreadme.PNG)
 
 
   - right bellow you will find the TimeTable you are able to pick the time suits you better.
   
-![timetable] ()
+![timetable] (https://github.com/dhardi/Project1/blob/main/assets/images/timetable.PNG)
+
+
+## Gyms 
+
+- This page you will find a selection of three Gyms two base in Ireland and one in Brazil each one has the address right bellow the logo also the link to reach out the website.
+
+![Gyms]()
