@@ -58,11 +58,23 @@
 
   - right bellow you will find the TimeTable you are able to pick the time suits you better.
   
-![timetable] (https://github.com/dhardi/Project1/blob/main/assets/images/timetable.PNG)
+![timetable](https://github.com/dhardi/Project1/blob/main/assets/images/timetable.PNG)
 
 
 ## Gyms 
 
 - This page you will find a selection of three Gyms two base in Ireland and one in Brazil each one has the address right bellow the logo also the link to reach out the website.
 
-![Gyms]()
+![Gyms](https://github.com/dhardi/Project1/blob/main/assets/images/gyms.PNG)
+
+
+## Tips
+
+- This page it show three great tips before start Jiu Jitsu 
+
+![Tips]()
+
+
+- In the end of the page just in case if jump straight to Tips page there is a button Sign up it will bring you to Meet up where you can fill the form and sign up for classes.
+
+![signup]() 
