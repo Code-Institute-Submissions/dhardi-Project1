@@ -54,3 +54,8 @@
 - This page allows the user signed up to Jiu jitsu Vibes to start training Jiu jitsu you can choose casual tranning or specific tranning.
 
 ![Meetup]()
+
+
+  - right bellow you will find the TimeTable you are able to pick the time suits you better.
+  
+![timetable] ()
