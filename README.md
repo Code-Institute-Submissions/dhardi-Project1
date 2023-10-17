@@ -49,3 +49,8 @@
 ![socialmedia](https://github.com/dhardi/Project1/blob/main/assets/images/socialmedia.PNG)
 
 
+## Meet Up
+
+- This page allows the user signed up to Jiu jitsu Vibes to start training Jiu jitsu you can choose casual tranning or specific tranning.
+
+![Meetup]()
