@@ -72,9 +72,22 @@
 
 - This page it show three great tips before start Jiu Jitsu 
 
-![Tips]()
+![Tips](https://github.com/dhardi/Project1/blob/main/assets/images/tips-readme.PNG)
 
+### Sign Up Button
 
 - In the end of the page just in case if jump straight to Tips page there is a button Sign up it will bring you to Meet up where you can fill the form and sign up for classes.
 
-![signup]() 
+![signup](https://github.com/dhardi/Project1/blob/main/assets/images/button-signup.PNG) 
+
+
+
+## Features Left to Implement 
+
+- A booking page with calendar where you can book private or casual Classes
+- iframe with location visual of Gyms
+- Forum interactive
+- Videos Classes page
+- Streaming events
+- Betting page  
+- Newsletter upcomming News 
