@@ -118,3 +118,18 @@ At the beginning of the project I should have made more commits at each stage of
 
 ![lighthousemobile](https://github.com/dhardi/Project1/blob/main/docs/mobile-performace.PNG)
 
+### Unfixed Bugs
+
+My website has good quality photos and videos, but I tried to reduce the resolution but it's still too heavy to load on cell phones and computers.
+
+
+## Credits
+
+ Firstly, I would like to mention my tutor who was a great help to my development, I would like to thank my wife for her help with color choices. Below I will provide the links to the content to produce the website.
+
+ - Video made by [Martin](https://martincurleyvisuals.com/)
+ - Pictures made by me and my Wife
+ - logo [Loka](https://looka.com/onboarding)
+ - Content
+   -  [WhyShouldstartjiujitsu](https://www.westsidemma.net/single-post/2016-1-29-7-reasons-why-everyone-should-train-brazilian-jiujitsu)
+   -  [pillars](https://gbriveroaks.com/what-are-the-pillars-of-jiu-jitsu/)
