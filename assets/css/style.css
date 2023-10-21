@@ -227,7 +227,8 @@ header {
     font-family: 'Josefin Sans', sans-serif;
 
 
-    padding: 2 0rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -285,7 +286,7 @@ nav {
     background-color: #333;
     box-shadow: 0 2px 2px #3a3a3a;
     width: 100%;
-    padding-top: 0 1rem;
+    padding-top: 1rem ;
     display: none;
     top: 100%;
     padding-left: 10px;
