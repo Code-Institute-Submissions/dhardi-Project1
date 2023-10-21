@@ -129,7 +129,7 @@ My website has good quality photos and videos, but I tried to reduce the resolut
 
  - Video made by [Martin](https://martincurleyvisuals.com/)
  - Pictures made by me and my Wife
- - logo [Loka](https://looka.com/onboarding)
+ - [Create your Logo](https://looka.com/onboarding)
  - Content
-   -  [WhyShouldstartjiujitsu](https://www.westsidemma.net/single-post/2016-1-29-7-reasons-why-everyone-should-train-brazilian-jiujitsu)
-   -  [pillars](https://gbriveroaks.com/what-are-the-pillars-of-jiu-jitsu/)
+   -  [Why Should start jiujitsu](https://www.westsidemma.net/single-post/2016-1-29-7-reasons-why-everyone-should-train-brazilian-jiujitsu)
+   -  [Pillars Jiu Jistu](https://gbriveroaks.com/what-are-the-pillars-of-jiu-jitsu/)
