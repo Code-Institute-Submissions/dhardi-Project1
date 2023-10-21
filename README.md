@@ -2,7 +2,7 @@
 
   Jiu jitsu vibes is a website that targets the jiu jitsu community in Ireland and Brazil the main objective of the website is to encourage people to practice jiu jitsu and find a training partner you will also find a small selection of jiu jitsu academies where you You can find me and book your training with me.
 
-![responsive]()
+![responsive](https://github.com/dhardi/Project1/blob/main/docs/responsive.PNG)
 
 ## Features Home Page
 
@@ -96,3 +96,25 @@
 
 
 ## Testing 
+
+During my project I encountered certain challenges that I had to overcome, such as the page layout using flexbox and with my nav button, the website is fully responsive on tablets, laptops and large screens.
+At the beginning of the project I should have made more commits at each stage of my project, but I wasn't, after advice from my Tutor I started to make my commits frequently as I progressed during my project.
+
+### Valitator Testing 
+
+- W3c Html Validator
+
+![htmlvalidator](https://github.com/dhardi/Project1/blob/main/docs/html-validator.PNG)
+
+- Jigsaw Validator 
+
+![cssvalidator](https://github.com/dhardi/Project1/blob/main/docs/validador-css.PNG)
+
+- Performace Lighthouse Desktop
+  
+[lighthouse](https://github.com/dhardi/Project1/blob/main/docs/performace-desktop.PNG)
+
+- Performace Lighthouse Mobile
+
+[lighthousemobile](https://github.com/dhardi/Project1/blob/main/docs/mobile-performace.PNG)
+
