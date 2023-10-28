@@ -31,13 +31,13 @@
 - Pillars Jiu Jitsu Section
    - on the section Pillars of Jiu Jitsu you will find a brief about jiu jitsu and benefits, three icons choosen to symbolize the benefits.
   
-  ![pillars](https://github.com/dhardi/Project1/blob/main/assets/images/pillarsjiujitsu.PNG)
+  ![pillars](https://github.com/dhardi/Project1/blob/main/docs/pillarsjiujitsu.PNG)
 
 ### Upper Footer 
 
  - Upper Footer was created to user explorer external links also includes a sneakpeak video about the Gym Takedown.
 
-![Upperfooter](https://github.com/dhardi/Project1/blob/main/assets/images/upperfooter.PNG)
+![Upperfooter](https://github.com/dhardi/Project1/blob/main/docs/upperfooter.PNG)
 
 
 ### Footer
