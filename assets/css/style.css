@@ -910,7 +910,14 @@ li a:hover {
         }
         /*footer*/
         ._14{
-            margin: 15px;
+            margin-top: 15px;
+            position: absolute;
+            padding-left: 10px;
+            
+        }
+        
+           
+            
         }
         footer>p{
             margin: 15px;
@@ -926,6 +933,7 @@ li a:hover {
         .social-icons {
             display: flex;
             flex-direction: row;
+            margin-top: 35px;
         }
     
     
