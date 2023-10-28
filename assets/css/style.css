@@ -239,7 +239,7 @@ header {
     flex-direction: row-reverse;
 
 }
-
+/*upper footer mobile phones*/
 #upperfooter {
     display: flex;
 
@@ -257,8 +257,7 @@ header {
 }
 
 #upperfooter img {
-    /*width: 335px;
-    height: 106.7px;*/
+    
     margin-top: 10px;
     margin-bottom: 10px;
 
@@ -280,7 +279,7 @@ header {
 }
 
 
-/*Menu toggle*/
+/*Menu toggle mobile phone*/
 nav {
     position: absolute;
     background-color: #333;
@@ -456,7 +455,7 @@ main {
     flex-direction: column;
     background-color: white;
 }
-
+/*footer pages*/
 footer {
     background-color: #333;
     font-family: Arial;
@@ -584,7 +583,7 @@ li a:hover {
     display: none;
 }
     
-    
+    /*tips big screen 576px*/
     #introtips{
         margin-top: 160px;
         margin-left: 25px;
@@ -681,6 +680,8 @@ li a:hover {
         margin-bottom: 10px;
 
     }
+
+    /*Pillars big screen 576px*/
 
     #pillars-content {
         display: flex;
@@ -871,6 +872,7 @@ li a:hover {
     #titlepage {
         display: none;
     }
+    /*hero big screens 889px*/
     #hero {
         height: 1000px;
         width: 100%;
@@ -880,6 +882,8 @@ li a:hover {
         background-position-y: -376px;
 
     }
+
+    /*Upperfooter big screens */
 
     #upperfooter img {
 
