@@ -880,7 +880,7 @@ li a:hover {
         background: url("../images/073FFEF7-88B6-4497-B6DD-018B5CA95593.jpg") no-repeat center center/cover;
         position: relative;
       
-        background-position-y: -376px;
+        background-position-y: -234px;
 
     }
 
@@ -907,6 +907,13 @@ li a:hover {
             margin-top: 15px;
             padding: 20px;
     
+        }
+        /*footer*/
+        ._14{
+            margin: 15px;
+        }
+        footer>p{
+            margin: 15px;
         }
     
         /*footer social media*/
