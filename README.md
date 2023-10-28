@@ -12,17 +12,17 @@
   
 - Featured on all four pages , the full responsive bar included links and logo, home page, Meet Up, Gyms e Tips.
 
-  ![Nav Bar](https://github.com/dhardi/Project1/blob/main/assets/images/navbar.PNG)
+  ![Nav Bar](https://github.com/dhardi/Project1/blob/main/docs/navbar.PNG)
 
 - The Landing Page 
    - the landing page includes a logo , O logo foi criado para objetivo de chamar atencao do publico alvo e a comunidade de jiu jitsu todas as academias desde da antiga a nova sao baseadas no simbolo que representa a academia .
   
-  ![logo](https://github.com/dhardi/Project1/blob/main/assets/images/logo.PNG)
+  ![logo](https://github.com/dhardi/Project1/blob/main/docs/logo.PNG)
 
 - Nav Bar
   - Menu interactive it changes color while you hover with your mouse over.
 
-![menu](https://github.com/dhardi/Project1/blob/main/assets/images/menu.PNG)
+![menu](https://github.com/dhardi/Project1/blob/main/docs/menu.PNG)
 
 - The landing page includes a photograph two athletes cheer each other this image was choosen to make the user confortable and show him  friedship and respect among Jiu jitsu.
 
