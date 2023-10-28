@@ -543,8 +543,12 @@ li a {
 
 #upperfooter {
     align-items: center;
+    
 
 
+}
+#upperfooter>a{
+    margin: 20px;
 }
 
 
