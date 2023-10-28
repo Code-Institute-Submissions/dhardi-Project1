@@ -85,6 +85,10 @@ h1 {
 }
 
 /*page gym content mobile*/
+main>h2{
+    margin-top: 50px;
+}
+
 #gyms {
     display: flex;
     flex-direction: column;
@@ -197,8 +201,11 @@ h1 {
     padding: 15px 32px;
     cursor: pointer;
     border: 2px solid #0f172a;
-    box-shadow: 2px 2px 0 0 white;
-    transition-duration: 200ms;
+  
+    border-radius: 40px;
+}
+.roll-button:hover{
+    background-color: grey;
 }
 
 #baseform{
@@ -695,7 +702,7 @@ li a:hover {
 
 /*responsive tablets page timetable meetup*/
 .pageh2{
-    margin-top: 150px;
+    margin-top: 260px;
 }
 #signup{
         background-image:url("../images/formhero.jpeg") ;
