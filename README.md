@@ -26,7 +26,7 @@
 
 - The landing page includes a photograph two athletes cheer each other this image was choosen to make the user confortable and show him  friedship and respect among Jiu jitsu.
 
-![hero](https://github.com/dhardi/Project1/blob/main/assets/images/073FFEF7-88B6-4497-B6DD-018B5CA95593.jpg)
+![hero](https://github.com/dhardi/Project1/blob/main/docs/073FFEF7-88B6-4497-B6DD-018B5CA95593.jpg)
 
 - Pillars Jiu Jitsu Section
    - on the section Pillars of Jiu Jitsu you will find a brief about jiu jitsu and benefits, three icons choosen to symbolize the benefits.
