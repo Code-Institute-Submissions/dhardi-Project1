@@ -143,3 +143,4 @@ You can find the live site via the following URL - [Jiu Jitsu Vibes](https://dha
  - Content
    -  [Why Should start jiujitsu](https://www.westsidemma.net/single-post/2016-1-29-7-reasons-why-everyone-should-train-brazilian-jiujitsu)
    -  [Pillars Jiu Jistu](https://gbriveroaks.com/what-are-the-pillars-of-jiu-jitsu/)
+   -  [Things You’ll Need Before Your First Brazillian Jiu Jistu Class](https://evolve-mma.com/blog/7-things-you-should-get-before-your-first-bjj-class/)
