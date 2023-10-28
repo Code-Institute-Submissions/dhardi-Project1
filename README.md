@@ -15,8 +15,8 @@
   ![Nav Bar](https://github.com/dhardi/Project1/blob/main/assets/images/navbar.PNG)
 
 - The Landing Page 
-   - the landing page includes a logo , logo was created on [https://looka.com/onboarding] (Looka logo Maker) 
- 
+   - the landing page includes a logo , O logo foi criado para objetivo de chamar atencao do publico alvo e a comunidade de jiu jitsu todas as academias desde da antiga a nova sao baseadas no simbolo que representa a academia .
+  
   ![logo](https://github.com/dhardi/Project1/blob/main/assets/images/logo.PNG)
 
 - Nav Bar
@@ -84,7 +84,7 @@
 
 
 
-## Features Left to Implement 
+## Future Ideas to Implement 
 
 - A booking page with calendar where you can book private or casual Classes
 - iframe with location visual of Gyms
@@ -120,7 +120,17 @@ At the beginning of the project I should have made more commits at each stage of
 
 ### Unfixed Bugs
 
-My website has good quality photos and videos, but I tried to reduce the resolution but it's still too heavy to load on cell phones and computers.
+At this Date no Unfixed Bugs.
+
+
+## Deployment 
+- The Site was Deployed to GitHub. The steps to deploy are as Fallows
+  - From the project's repository, go to the Settings tab.
+  - From the left-hand menu, select the Pages tab.
+  - Under the Source section, select the Main branch from the drop-down menu and click Save.
+  - A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+
+You can find the live site via the following URL - [Jiu Jitsu Vibes](https://dhardi.github.io/Project1/)
 
 
 ## Credits
